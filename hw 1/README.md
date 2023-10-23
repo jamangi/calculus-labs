@@ -37,6 +37,7 @@
    - **Quotient Rule**: If you have the quotient of two functions, the derivative is (derivative of the numerator times denominator) minus (numerator times derivative of the denominator) divided by (denominator squared).
    - **Chain Rule**: For composite functions, you can find the derivative by taking the derivative of the outer function times the derivative of the inner function.
    - **Exponential and Logarithmic Rules**: Derivatives of exponential functions like (e^x) and logarithmic functions like (ln(x)) follow specific rules.
+   - **Constant Rule**: The rule states that the derivative of a constant, such as the number 5, is always zero. In mathematical notation, if c is a constant, then the derivative of c with respect to x is 0.
    
    To find the derivative of the original equation, you apply these rules based on the function's composition. For example, if you have (f(x) = 5 + ln(4x^3 - 3)), you can use the power rule for (ln(4x^3 - 3)), the constant rule for 5, and then apply the sum rule.
 
