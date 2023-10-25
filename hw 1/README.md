@@ -50,3 +50,14 @@
    - You can use this equation to find points on the tangent line by choosing different (x) values. Plug in different (x) values into the equation to find the corresponding (y) values on the tangent line.
 
 This process allows you to construct the tangent line by determining how it behaves based on its slope and a single point. By choosing different (x) values and applying the equation, you can find points on the tangent line to compare with the original function at (x_0).
+
+### Question 1: The plot of the derivative differs from the plot of the tangent line**:
+- The shape of the derivative at a particular point is related to the slope of the tangent line at that point, but they are not the same. Here's the distinction:
+
+1. **Derivative at a Point (Instantaneous Rate of Change):** The derivative at a specific point represents the rate of change of the function at that point. In other words, it shows how fast the function is increasing or decreasing at that point. The value of the derivative indicates the slope of the tangent line to the function at that specific point. If the derivative is zero, it means the function is relatively flat at that point.
+
+2. **Tangent Line at a Point:** The tangent line to a function at a particular point is a straight line that touches the curve of the function at that point without crossing it. The slope of the tangent line at that point is equal to the value of the derivative at that point. This means that the derivative provides the slope of the tangent line, but the tangent line is a linear approximation of the function's behavior near that point.
+
+So, while the derivative and the tangent line are related in that they both involve slopes, the derivative is a function itself (it can vary along the x-axis), while the tangent line is a straight line that approximates the function's behavior at one specific point. The derivative provides information about how the tangent line's slope changes as you move along the x-axis.
+
+For linear functions, the tangent line is a constant, straight line, which means the derivative (rate of change) is also constant. However, for non-linear functions, the tangent line's slope (as represented by the derivative) can vary significantly.
